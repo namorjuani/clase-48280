@@ -8,4 +8,9 @@ Comandos:
 Con git add añadimos todos los archivos que git no encuentre.
 git status 
 
+4. git commit -m "escribir un mensaje"
+Para confirmar los cambios realizados en el código. Siempre debe llevar un mensaje lo más descriptivo posible.
 
+.gitignore (para investigar)
+
+5. git branch
